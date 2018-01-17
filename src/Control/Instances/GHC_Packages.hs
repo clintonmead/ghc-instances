@@ -1,5 +1,5 @@
 {-# LANGUAGE CPP #-}
-module Control.Instances.GHC_Packages where
+module Control.Instances.GHC_Packages () where
 
 import Control.Instances.Package.Array ()
 import Control.Instances.Package.Base ()
